@@ -14,6 +14,14 @@
 ```
 git clone https://github.com/DanxyOfficial/SCRIPT-BOT-TELERAM-VERCEL
 ```
+**TESTI BOT TELEGRAM ONLINE 24JAM/7:**
+```
+https://t.me/DanxyToolsV84_Bot?start=_tgr_sQ1OPCYxM2Y1
+```
+**VIDEO CARA PEMASANGAN SCRIPT BOT TELEGRAMNYA:**
+```
+https://youtu.be/mhexDq3103U?si=x_G-_RXkEFqPiL86
+```
 
 **SOSIAL MEDIA DANXY OFFICIAL**
 - TikTok: @qwela.38
