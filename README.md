@@ -36,7 +36,7 @@ Ikuti langkah-langkah di bawah ini untuk memulai:
     - Nama Bot
     - Token Bot Telegram (Dapatkan dari [@BotFather](https://t.me/BotFather))
 
-5.  **Edit Webhook (bot.js)** - Cari file `bot.js`.
+5.  **Edit Webhook (bot.js)** - Cari file `api/bot.js`.
     - Temukan bagian link `vercel.app`.
     - Ganti link tersebut dengan link hasil deploy Vercel milik kalian sendiri.
 
