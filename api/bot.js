@@ -3,7 +3,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const features = require('../features');
 const app = express();
 const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
-const BOT_USERNAME = process.env.BOT_USERNAME || 'Danxyy_bot';
+const BOT_USERNAME = process.env.BOT_USERNAME || 'jkadistore_bot';
 
 if (!BOT_TOKEN) {
   console.error('ERROR: TELEGRAM_BOT_TOKEN not found in environment variables!');
